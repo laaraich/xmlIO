@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personnes>
+	<etudiant>
+		<name>amine</name>
+	</etudiant>
+	<etudiant>
+		<name>el amine</name>
+	</etudiant>
+	<etudiant>
+		<name>adil</name>
+	</etudiant>
+</personnes>
